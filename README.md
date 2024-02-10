@@ -28,12 +28,14 @@ These are located in the Resources folder. A file must exist for each language u
 The ‘\n’ text is a linefeed
 
 Sample English File
+
 ButtonTxt=Translated Button
 ButtonTMP=Translated TMP Button
 LanguageLegacy=English\nThis example scene uses both the Legacy button and text box, plus an optional dropbox picker.
 LanguageTMP=English\nThis example scene uses both the new TMP button and text box, plus an optional dropbox picker.
 
 Sample Italian File
+
 ButtonTxt=Pulsante tradotto
 ButtonTMP=Pulsante TMP tradotto
 LanguageLegacy=Italian\nQuesta scena di esempio utilizza sia il pulsante Legacy che la casella di testo, oltre a un selettore dropbox opzionale.
