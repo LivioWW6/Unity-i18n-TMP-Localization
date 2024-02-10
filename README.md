@@ -13,7 +13,8 @@ You can also add the script with the ‘Add Component’ button in the Inspector
 Legacy Text Objects:
 
 1 For Legacy Text objects add the ‘I18nTextTranslator.cs’ script to the text object from the list in the Inspector.
-![legacy2](https://github.com/LivioWW6/i18n-TMP-Localization/assets/6105026/fdce4782-5ec9-4802-ae4a-b85554745427)
+![legacy1](https://github.com/LivioWW6/i18n-TMP-Localization/assets/6105026/cb0b36c7-675d-4973-9103-d25c656ec62e)
+
 2 Or Click ‘Add Component’ in the Game object ‘Add Component’ button then enter the name in Inspector and select the ‘I18nTextTranslator.cs’ script.
 Add a key as above.
 Note that the key can be reused in multiple and different game objects. But it must be unique in each language file.
