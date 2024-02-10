@@ -23,7 +23,7 @@ More information:
 
 See ‘I18n.cs’ for Daniel Erdmann notes.
 
-Sample Language Files
+Sample Language Files:
 The language translation files are located in the Resources folder. A file must exist for each language used.
 
 The ‘\n’ text is a linefeed
