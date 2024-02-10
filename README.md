@@ -24,20 +24,6 @@ More information:
 See ‘I18n.cs’ for Daniel Erdmann notes.
 
 Sample Language Files
-These are located in the Resources folder. A file must exist for each language used.
+The language translation files are located in the Resources folder. A file must exist for each language used.
+
 The ‘\n’ text is a linefeed
-
-Sample English File
-
-ButtonTxt=Translated Button
-ButtonTMP=Translated TMP Button
-LanguageLegacy=English\nThis example scene uses both the Legacy button and text box, plus an optional dropbox picker.
-LanguageTMP=English\nThis example scene uses both the new TMP button and text box, plus an optional dropbox picker.
-
-Sample Italian File
-
-ButtonTxt=Pulsante tradotto
-ButtonTMP=Pulsante TMP tradotto
-LanguageLegacy=Italian\nQuesta scena di esempio utilizza sia il pulsante Legacy che la casella di testo, oltre a un selettore dropbox opzionale.
-LanguageTMP=Italian\nQuesta scena di esempio utilizza sia il nuovo pulsante TMP che la casella di testo, oltre a un selettore dropbox opzionale.
-
